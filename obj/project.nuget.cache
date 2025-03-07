@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KYyVmKJYzqs=",
+  "dgSpecHash": "gINyPhbxwoQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emanuel\\Desktop\\Estudio\\6toSemestre\\DisenoDeSoftware\\Laboratorio\\proyectoindicadores3\\csharpapigenerica\\csharpapigenerica.csproj",
+  "projectFilePath": "C:\\Users\\Emanuel\\Desktop\\Estudio\\6toSemestre\\DisenoDeSoftware\\Laboratorio\\csharpapigenerica\\csharpapigenerica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emanuel\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "C:\\Users\\Emanuel\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
